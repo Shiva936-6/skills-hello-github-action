@@ -1,5 +1,7 @@
 this is shiva!
 shivendra pratap singh says that this community is amazing.
+This is an example to make a merge conflict
+
 <header>
 
 # Hello GitHub Actions
